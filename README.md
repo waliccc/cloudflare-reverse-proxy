@@ -39,3 +39,8 @@
 例2 调用openai的post接口，https://api.openai.com/v1/chat/completions 前面加https://你的域名/proxy/
 ![demo2](img/demo2.png)
 更多使用方法也可以参考https://github.com/gaboolic/vercel-reverse-proxy 
+
+
+
+CNAME 部署法
+https://blog.csdn.net/qq_43523315/article/details/126476253
